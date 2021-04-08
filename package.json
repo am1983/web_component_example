@@ -1,0 +1,16 @@
+{
+  "name": "web_component_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules server.js"
+  },
+  "author": "Aaron Marks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
